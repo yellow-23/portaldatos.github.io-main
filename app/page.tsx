@@ -71,7 +71,6 @@ const Home: FC = () => {
             >
               Sobre Nosotros
             </Link>
-            <LanguageSelector />
             <button
               title="Notifications"
               className="text-gray-700 dark:text-white/80 hover:text-[#4CAF50] transition-colors"
